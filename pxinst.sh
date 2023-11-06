@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Version=170 (c)2017-2023 Jan Novak, repcom@gmail.com
+
 ###########################################################################
 # DEFINITIONS ...
 jnversion=170
